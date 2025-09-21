@@ -3,7 +3,7 @@ import React from "react";
 import Groupimg from "@/assets/Groupimg.png";
 import Flex from "../Flex/flex";
 import Testimonial from "@/Components/Testimonial/Testimonial";
-import Testimonialgroup from "@/assets/testimonialgroup.png";
+import Testimonialgroup from "@/assets/Testimonialgroup.png";
 import Traiangal from "../Svg/Traiangal";
 import Halfcircle from "../Svg/Halfcircle";
 
