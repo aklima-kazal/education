@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import Amazon from "../Svg/Amazon";
 import Flex from "../Flex/flex";
