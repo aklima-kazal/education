@@ -1,5 +1,3 @@
-const { Grenze, Purple_Purse } = require("next/font/google");
-
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -8,11 +6,10 @@ module.exports = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    container: {
-      center: true,
-    },
-
     extend: {
+      fontFamily: {
+        inter: ["Inter", "sans-serif"], // keep your custom font here
+      },
       colors: {
         svg: "#1B2336",
         Green: "#2AAA94",
