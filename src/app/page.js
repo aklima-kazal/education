@@ -1,10 +1,24 @@
+import Banner from "@/Components/Banner/banner";
+import Categories from "@/Components/Categories/Categories";
+import Course from "@/Components/Course/Course";
+import Information from "@/Components/Information/Information";
+import Layout from "@/Components/Layout/layout";
+import LearnCourses from "@/Components/LearnCourses/LearnCourses";
+import Numberfact from "@/Components/Numberfact/Numberfact";
+
 export default function Home() {
   return (
     <>
-      <h1 className="text-3xl font-bold text-gray-700 text-center">Hello</h1>
-      <p className="text-center text-base text-gray-600">
-        this is my first next project
-      </p>
+      <div>
+        <Layout>
+          <Banner />
+          <Information />
+          <Course />
+          <LearnCourses />
+          <Categories />
+          <Numberfact />
+        </Layout>
+      </div>
     </>
   );
 }
