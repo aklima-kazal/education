@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-import Group from "@/assets/group.png";
+import Group from "@/assets/Group.png";
 import Group_Bottom from "@/assets/group_bottom.png";
 import Container from "../Container/container";
 const Banner = () => {

@@ -2,7 +2,6 @@ import React from "react";
 import Flex from "../Flex/flex";
 import Lists from "../Lists/Lists";
 import Listitem from "../Lists/Listitem";
-import Container from "../Container/container";
 import Logo_white from "../Svg/Logo_white";
 import { FiPhone } from "react-icons/fi";
 import { IoMailOutline } from "react-icons/io5";

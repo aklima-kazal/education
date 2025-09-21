@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import Group_bg from "../../assets/group_bg.png";
 import typography from "../../assets/typography.png";
 import trainning from "../../assets/trainning.png";
 import system from "../../assets/system.png";

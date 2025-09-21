@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Group_round from "@/assets/group_round.png";
+import Group_round from "@/assets/Group_round.png";
 import Learn from "../Svg/Learn";
 import Graduate from "../Svg/Graduate";
 import Work from "../Svg/Work";
