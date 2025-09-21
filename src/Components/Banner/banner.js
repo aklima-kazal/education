@@ -2,8 +2,8 @@
 import Image from "next/image";
 import React from "react";
 import Group from "@/assets/Group.png";
-import Group_Bottom from "@/assets/group_bottom.png";
-import Container from "../Container/container";
+import Information from "../Information/Information";
+
 const Banner = () => {
   return (
     <>
@@ -15,6 +15,7 @@ const Banner = () => {
           height={1800}
           className=" object-cover border-none mt-4 "
         />
+        <Information />
       </div>
     </>
   );

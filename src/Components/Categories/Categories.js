@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 import Digitalmarketing from "../Svg/Digitalmarketing";
 import Webdev from "../Svg/Webdev";
 import Personaldev from "../Svg/Personaldev";
