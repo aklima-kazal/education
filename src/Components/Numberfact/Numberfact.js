@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import Groupimg from "@/assets/groupimg.png";
+import Groupimg from "@/assets/Groupimg.png";
 import Flex from "../Flex/flex";
 import Testimonial from "@/Components/Testimonial/Testimonial";
 import Testimonialgroup from "@/assets/testimonialgroup.png";
