@@ -24,7 +24,7 @@ const Course = () => {
           </p>
         </div>
 
-        <Container className="  ">
+        <Container>
           <div className="grid grid-cols-3  items-center justify-center sm:gap-x-10 sm:gap-y-10 md:gap-x-6 md:gap-y-6 lg:ml-[120px] lg:mr-[50px] 2xl:gap-x-14 2xl:gap-y-14 ">
             <div>
               <Image src={typography} alt="img" width={400} height={600} />
@@ -44,7 +44,7 @@ const Course = () => {
                   <h1 className="text-xl font-serif font-semibold text-para">
                     $33.99
                   </h1>
-                  <IoCartOutline className="h-7 w-7" />
+                  <IoCartOutline />
                 </Flex>
               </div>
             </div>
